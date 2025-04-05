@@ -10,7 +10,7 @@ export default function Home() {
         height={150}
         priority
       />
-      <h1 className="text-4xl font-bold mt-4">Hello from Rosenzje. Deployed automatically with GitHub Actions!</h1>
+      <h1 className="text-4xl font-bold mt-4">Hello from sweetn</h1>
     </div>
   );
 }
